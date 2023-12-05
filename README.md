@@ -91,14 +91,17 @@ high-caliber cross-functional engineering teams to drive business value.
 
 ## Worked On
 
-### ⚙️ Solera Network | Sr Director of Engineering
+### ⚙️ MidTier Healthcare Startup | Sr Director of Engineering
 Healthcare AI Startup focused on matching the best digital care programs to health plan members
 
 ### ⚙️ Stealh Healthcare Startup | Founder & Chief Software Architect
 Mental Health baseed engagement application focusing on bridging social dynamic gaps with AI and interaction review
 
 ### ⚙️ Nebula | Web3 Software Architect
-The first infrastucture first launchpad and marketplace on the Injective ecosystem
+The first infrastucture first launchpad and marketplace on the Injective ecosystem 
+
+### ⚙️ Triivo | Web3 Architect
+A nextgen defi platform on the solana ecosystem
 
 ### ⚙️ Lifeverse | Solidity Developer
 A web3 gaming on the Treasure ecosytem bringing engaging and rewarding experiences through interopability and P2E mechanics
@@ -106,7 +109,7 @@ A web3 gaming on the Treasure ecosytem bringing engaging and rewarding experienc
 ### ⚙️ Origin Analytics | Software Architect
 Web3 NFT and Chain Analytics focued on bringing rich and robust analytics via rich platform and discord bots
 
-### ⚙️ Smol Snack Shop | Founder & Lead Solidity Developer
+### ⚙️ Snack Shop | Founder & Lead Solidity Developer
 A web3 business sim focusing on rich social dynamics and micro-transactable gameplay mechanics
 
 **Other Expereince Upon Request*
